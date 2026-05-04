@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1280" viewBox="0 0 768 1280">
+  <rect x="60" y="100" width="648" height="1100" rx="36" fill="#f4eec5" stroke="#d2c78a" stroke-width="8"/>
+  <rect x="88" y="130" width="592" height="170" rx="22" fill="#74c447"/>
+  <text x="384" y="220" font-size="86" text-anchor="middle" fill="#ffde3a" font-weight="bold">推个表情包</text>
+  <rect x="88" y="340" width="592" height="110" rx="18" fill="#ffe74e"/>
+  <text x="384" y="410" font-size="52" text-anchor="middle" fill="#1f6c2c">点击这里</text>
+  <rect x="88" y="480" width="592" height="640" rx="18" fill="#c7ee97" stroke="#6ea85f" stroke-width="5" stroke-dasharray="15 12"/>
+  <rect x="88" y="1130" width="592" height="70" rx="28" fill="#bbdfee"/>
+</svg>
